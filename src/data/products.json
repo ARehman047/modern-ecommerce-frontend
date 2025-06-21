@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 Pro",
+    "description": "Latest iPhone with advanced camera system and A16 Bionic chip. Experience professional photography and blazing-fast performance.",
+    "category": "mobile",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+      "https://images.unsplash.com/photo-1605236453806-b25e316dbddb?w=500"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S23",
+    "description": "Powerful Android smartphone with excellent camera system and long-lasting battery life.",
+    "category": "mobile",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 7",
+    "description": "Pure Android experience with Google's computational photography and AI features.",
+    "category": "mobile",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 11",
+    "description": "Fast charging flagship phone with smooth performance and premium design.",
+    "category": "mobile",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi 13 Pro",
+    "description": "High-performance smartphone with excellent value and premium features.",
+    "category": "mobile",
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=500"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro 16-inch",
+    "description": "Professional laptop with M2 Pro chip and Liquid Retina XDR display. Perfect for creative professionals.",
+    "category": "laptop",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dell XPS 13",
+    "description": "Compact and powerful ultrabook perfect for productivity and portability.",
+    "category": "laptop",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "HP Spectre x360",
+    "description": "Versatile 2-in-1 laptop with touch screen and long battery life.",
+    "category": "laptop",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Lenovo ThinkPad X1",
+    "description": "Business-grade laptop with robust build quality and excellent keyboard.",
+    "category": "laptop",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "ASUS ROG Gaming Laptop",
+    "description": "High-performance gaming laptop with powerful graphics and fast refresh rate display.",
+    "category": "laptop",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Sony WH-1000XM4",
+    "description": "Industry-leading noise canceling wireless headphones with exceptional sound quality.",
+    "category": "speakers",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "JBL Charge 5",
+    "description": "Portable Bluetooth speaker with powerful bass and waterproof design.",
+    "category": "speakers",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bose SoundLink Mini",
+    "description": "Compact wireless speaker with premium sound and sleek aluminum design.",
+    "category": "speakers",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Marshall Kilburn II",
+    "description": "Vintage-styled portable speaker with classic rock aesthetics and powerful sound.",
+    "category": "speakers",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Ultimate Ears BOOM 3",
+    "description": "360-degree sound portable speaker with deep bass and waterproof design.",
+    "category": "speakers",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+    ]
+  }
+]
