@@ -22,9 +22,13 @@ const filters = [
     id: "category",
     name: "Category",
     options: [
-      { value: "mobile", label: "Mobile", checked: false },
-      { value: "laptop", label: "Laptop", checked: false },
-      { value: "speakers", label: "Speakers", checked: false },
+      { value: "80200", label: "80200 - Hamming Bag Sewing", checked: false },
+      { value: "80800", label: "80800 - Bag Closing", checked: false },
+      {
+        value: "81200",
+        label: "81200 - Harrackle Bag Sewing & Carpet Overedging",
+        checked: false,
+      },
     ],
   },
 ];
@@ -49,23 +53,29 @@ export const CategoryFilters = () => {
 
     // Check for category parameter in URL
     const categoryParam = searchParams.get("category");
-    if (
-      categoryParam &&
-      ["mobile", "laptop", "speakers"].includes(categoryParam)
-    ) {
+    if (categoryParam && ["80200", "80800", "81200"].includes(categoryParam)) {
       setCategory([categoryParam]);
     }
   }, [searchParams]);
 
   const filteredProducts = product.filter((prod) => {
+    // Exclude category face images (categories ending with "-category")
+    const isNotCategoryImage = !prod.category.endsWith("-category");
+
+    // Handle multiple categories (comma-separated)
+    const productCategories = prod.category.split(",").map((cat) => cat.trim());
     const categoryMatch =
-      category.length === 0 || category.includes(prod.category);
+      category.length === 0 ||
+      category.some((selectedCat) => productCategories.includes(selectedCat));
+
     const searchMatch =
       searchQuery === "" ||
       prod.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      prod.category.toLowerCase().includes(searchQuery.toLowerCase());
+      productCategories.some((cat) =>
+        cat.toLowerCase().includes(searchQuery.toLowerCase())
+      );
 
-    return categoryMatch && searchMatch;
+    return isNotCategoryImage && categoryMatch && searchMatch;
   });
 
   const sortedProducts = [...filteredProducts].sort((a, b) => {

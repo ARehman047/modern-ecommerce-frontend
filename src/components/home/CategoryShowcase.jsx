@@ -3,35 +3,32 @@ import { Link } from "react-router-dom";
 import productsData from "../../data/products.json";
 
 const CategoryShowcase = () => {
-  // Get the first product image for each category as representative
-  const mobileProduct = productsData.find(
-    (product) => product.category === "mobile"
+  // Get category face images from products.json
+  const mobileCategoryImage = productsData.find(
+    (product) => product.category === "80200-category"
   );
-  const laptopProduct = productsData.find(
-    (product) => product.category === "laptop"
+  const laptopCategoryImage = productsData.find(
+    (product) => product.category === "80800-category"
   );
-  const speakerProduct = productsData.find(
-    (product) => product.category === "speakers"
+  const speakerCategoryImage = productsData.find(
+    (product) => product.category === "81200-category"
   );
 
   const categories = [
     {
-      name: "Mobile",
-      key: "mobile",
-      image: mobileProduct?.image || "/placeholder-mobile.jpg",
-      description: "Discover our latest collection of smartphones",
+      name: "Parts for Union Special 80200 Hamming Bag Sewing Machines",
+      key: "80200",
+      image: mobileCategoryImage?.image || "/placeholder-mobile.jpg",
     },
     {
-      name: "Laptop",
-      key: "laptop",
-      image: laptopProduct?.image || "/placeholder-laptop.jpg",
-      description: "Explore powerful laptops for work and gaming",
+      name: "Parts for Union Special 80800 Bag Closing Machines",
+      key: "80800",
+      image: laptopCategoryImage?.image || "/placeholder-laptop.jpg",
     },
     {
-      name: "Speakers",
-      key: "speakers",
-      image: speakerProduct?.image || "/placeholder-speakers.jpg",
-      description: "Experience premium audio with our speakers",
+      name: "Parts for Union Special 81200 Harrackle Bag Sewing & Carpet Overedging Machines",
+      key: "81200",
+      image: speakerCategoryImage?.image || "/placeholder-speakers.jpg",
     },
   ];
 
@@ -39,11 +36,11 @@ const CategoryShowcase = () => {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
       <div className="text-center mb-12 md:mb-16">
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-          Our Product Categories
+          Union Special Machine Parts
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
-          Explore our carefully curated selection of mobile phones, laptops, and
-          speakers
+          Explore our carefully curated selection of parts for Union Special
+          sewing machines
         </p>
       </div>{" "}
       {/* Categories in a responsive row */}
@@ -63,13 +60,9 @@ const CategoryShowcase = () => {
               <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-all duration-300"></div>
             </div>{" "}
             {/* Category Name */}
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-indigo-600 transition-colors duration-300">
+            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6 group-hover:text-indigo-600 transition-colors duration-300 ">
               {category.name}
             </h2>
-            {/* Category Description */}
-            <p className="text-gray-600 group-hover:text-gray-800 mb-6 text-sm md:text-base transition-colors duration-300">
-              {category.description}
-            </p>
             {/* Click to see all button */}
             <Link
               to={`/products?category=${category.key}`}

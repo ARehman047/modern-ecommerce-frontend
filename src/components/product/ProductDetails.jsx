@@ -109,7 +109,7 @@ export const ProductDetails = ({ id }) => {
             {/* Product info */}
             <div className="mx-auto max-w-2xl px-4 pb-16 pt-10 sm:px-6 lg:max-w-4xl lg:px-8 lg:pt-16">
               <div className="text-center lg:text-left">
-                <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-8">
+                <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-4">
                   {title}
                 </h1>
 
