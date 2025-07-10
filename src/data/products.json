@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Product 1",
-    "description": "This is the description of Product 1.",
+    "title": "Part# 80220-A",
+    "description": "Presser Foot Assembly.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875025/IMG_2254_epks1z.heic",
     "images": [
@@ -11,8 +11,8 @@
   },
   {
     "id": 2,
-    "title": "Product 2",
-    "description": "This is the description of Product 2.",
+    "title": "Part# 80681",
+    "description": "Main Shaft Collar.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874993/IMG_2133_pyhszh.heic",
     "images": [
@@ -21,8 +21,8 @@
   },
   {
     "id": 3,
-    "title": "Product 3",
-    "description": "This is the description of Product 3.",
+    "title": "Part# 80681-A",
+    "description": "Pully Hub",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875011/IMG_2237_uiujx0.heic",
     "images": [
@@ -31,8 +31,8 @@
   },
   {
     "id": 4,
-    "title": "Product 4",
-    "description": "This is the description of Product 4.",
+    "title": "Part# AS 137-A",
+    "description": "Thread Eyelid Assembly.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875021/IMG_2251_k6nkyp.heic",
     "images": [
@@ -41,8 +41,8 @@
   },
   {
     "id": 5,
-    "title": "Product 5",
-    "description": "This is the description of Product 5.",
+    "title": "Part# 80224",
+    "description": "Throt Plate for Hamming.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875039/IMG_2272_povw7c.heic",
     "images": [
@@ -51,8 +51,8 @@
   },
   {
     "id": 6,
-    "title": "Product 6",
-    "description": "This is the description of Product 6.",
+    "title": "Part# 29402",
+    "description": "Lifter Treadle Assembly.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875027/IMG_2259_px7lbf.heic",
     "images": [
@@ -61,8 +61,8 @@
   },
   {
     "id": 7,
-    "title": "Product 7",
-    "description": "This is the description of Product 7.",
+    "title": "Part# 80220",
+    "description": "Pressure Foot-Right.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875035/IMG_2269_tdefa5.heic",
     "images": [
@@ -71,8 +71,8 @@
   },
   {
     "id": 8,
-    "title": "Product 8",
-    "description": "This is the description of Product 8.",
+    "title": "Part# 80650",
+    "description": "Needle Lever Connection Bearing-Upper.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874995/IMG_2140_a5l5l8.heic",
     "images": [
@@ -81,8 +81,8 @@
   },
   {
     "id": 9,
-    "title": "Product 9",
-    "description": "This is the description of Product 9.",
+    "title": "Part# 80205",
+    "description": "Feet Dog.",
     "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874997/IMG_2146_bbuttg.heic",
     "images": [
@@ -91,9 +91,9 @@
   },
   {
     "id": 10,
-    "title": "Product 10",
-    "description": "This is the description of Product 10.",
-    "category": "80200,81200",
+    "title": "Part# 81237",
+    "description": "Looper Drive Lever.",
+    "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875040/IMG_2275_tvpu1a.heic",
     "images": [
       "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875040/IMG_2275_tvpu1a.heic"
@@ -101,8 +101,8 @@
   },
   {
     "id": 11,
-    "title": "Product 11",
-    "description": "This is the description of Product 11.",
+    "title": "Part# 80620-E",
+    "description": "PRessure Foot Shank.",
     "category": "80200,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875021/IMG_2253_x236t3.heic",
     "images": [
@@ -111,8 +111,8 @@
   },
   {
     "id": 12,
-    "title": "Product 12",
-    "description": "This is the description of Product 12.",
+    "title": "Part# 80233",
+    "description": "Feed Rocker.",
     "category": "80200,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875032/IMG_2266_vlmmup.heic",
     "images": [
@@ -121,8 +121,8 @@
   },
   {
     "id": 13,
-    "title": "Product 13",
-    "description": "This is the description of Product 13.",
+    "title": "Part# 15442-K",
+    "description": "Looper Rocker Double Ball Joint Assembly.",
     "category": "80200,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875015/IMG_2239_j65ikm.heic",
     "images": [
@@ -131,8 +131,8 @@
   },
   {
     "id": 14,
-    "title": "Product 14",
-    "description": "This is the description of Product 14.",
+    "title": "Part# 80632",
+    "description": "Pressure Bar Lifter.",
     "category": "80200,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875005/IMG_2159_q0mf0l.heic",
     "images": [
@@ -141,8 +141,8 @@
   },
   {
     "id": 15,
-    "title": "Product 15",
-    "description": "This is the description of Product 15.",
+    "title": "Part# AS 26 XA",
+    "description": "Looper.",
     "category": "80200,80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875010/IMG_2164_kylwhi.heic",
     "images": [
@@ -151,8 +151,8 @@
   },
   {
     "id": 16,
-    "title": "Product 16",
-    "description": "This is the description of Product 16.",
+    "title": "Part# 80613-A",
+    "description": "Looper Rocker.",
     "category": "80200,80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875008/IMG_2163_s3xlyn.heic",
     "images": [
@@ -161,8 +161,8 @@
   },
   {
     "id": 17,
-    "title": "Product 17",
-    "description": "This is the description of Product 17.",
+    "title": "Part# 80637",
+    "description": "Looper Drive Lever.",
     "category": "80200,80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875025/IMG_2256_najy4w.heic",
     "images": [
@@ -171,8 +171,8 @@
   },
   {
     "id": 18,
-    "title": "Product 18",
-    "description": "This is the description of Product 18.",
+    "title": "Part# 29132-S",
+    "description": "Connection Assembly for Chain Cutter.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875047/IMG_2285_dkzs11.heic",
     "images": [
@@ -181,8 +181,8 @@
   },
   {
     "id": 19,
-    "title": "Product 19",
-    "description": "This is the description of Product 19.",
+    "title": "Part# 80627-E",
+    "description": "Pressure Foot.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875043/IMG_2279_dghufh.heic",
     "images": [
@@ -191,8 +191,8 @@
   },
   {
     "id": 20,
-    "title": "Product 20",
-    "description": "This is the description of Product 20.",
+    "title": "Part# 80624-E",
+    "description": "Throt Plate.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875038/IMG_2270_iwjyx0.heic",
     "images": [
@@ -201,8 +201,8 @@
   },
   {
     "id": 21,
-    "title": "Product 21",
-    "description": "This is the description of Product 21.",
+    "title": "Part# 80634-R",
+    "description": "Feed Bar.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875038/IMG_2268_ag3bqy.heic",
     "images": [
@@ -211,8 +211,8 @@
   },
   {
     "id": 22,
-    "title": "Product 22",
-    "description": "This is the description of Product 22.",
+    "title": "Part# 29739-A",
+    "description": "Looper Avoid Eccentric Assembly.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875022/IMG_2250_dbg7mf.heic",
     "images": [
@@ -221,18 +221,8 @@
   },
   {
     "id": 23,
-    "title": "Product 23",
-    "description": "This is the description of Product 23.",
-    "category": "80800",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875023/IMG_2247_wqjzri.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875023/IMG_2247_wqjzri.heic"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Product 24",
-    "description": "This is the description of Product 24.",
+    "title": "Part# 80623",
+    "description": "Looper Thread Take-Up.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875019/IMG_2245_mcni8v.heic",
     "images": [
@@ -240,9 +230,9 @@
     ]
   },
   {
-    "id": 25,
-    "title": "Product 25",
-    "description": "This is the description of Product 25.",
+    "id": 24,
+    "title": "Part# 80653-A",
+    "description": "Looper Thread Cast-Off Assembly.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875011/IMG_2236_nnsadu.heic",
     "images": [
@@ -250,29 +240,9 @@
     ]
   },
   {
-    "id": 26,
-    "title": "Product 26",
-    "description": "This is the description of Product 26.",
-    "category": "80800",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875047/IMG_2285_dkzs11.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875047/IMG_2285_dkzs11.heic"
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Product 27",
-    "description": "This is the description of Product 27.",
-    "category": "80800",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875043/IMG_2279_dghufh.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875043/IMG_2279_dghufh.heic"
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Product 28",
-    "description": "This is the description of Product 28.",
+    "id": 25,
+    "title": "Part# 80605-E",
+    "description": "Feet Dog.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875008/IMG_2165_rhal2c.heic",
     "images": [
@@ -280,9 +250,9 @@
     ]
   },
   {
-    "id": 29,
-    "title": "Product 29",
-    "description": "This is the description of Product 29.",
+    "id": 26,
+    "title": "Part# 80654",
+    "description": "Stich Regulating Stud Bushing.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875004/IMG_2157_vyo1lc.heic",
     "images": [
@@ -290,9 +260,9 @@
     ]
   },
   {
-    "id": 30,
-    "title": "Product 30",
-    "description": "This is the description of Product 30.",
+    "id": 27,
+    "title": "Part# 80666-C",
+    "description": "Pressure Bar Lifter Collar.",
     "category": "80800",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874999/IMG_2142_oerjhj.heic",
     "images": [
@@ -300,9 +270,9 @@
     ]
   },
   {
-    "id": 31,
-    "title": "Product 31",
-    "description": "This is the description of Product 31.",
+    "id": 28,
+    "title": "Part# 81256-A",
+    "description": "Frame Thread Eyelit Assembly.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875044/IMG_2280_g17vph.heic",
     "images": [
@@ -310,9 +280,9 @@
     ]
   },
   {
-    "id": 32,
-    "title": "Product 32",
-    "description": "This is the description of Product 32.",
+    "id": 29,
+    "title": "Part# 29198",
+    "description": "Spreader Rocker Assembly.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875039/IMG_2274_h02yvt.heic",
     "images": [
@@ -320,9 +290,9 @@
     ]
   },
   {
-    "id": 33,
-    "title": "Product 33",
-    "description": "This is the description of Product 33.",
+    "id": 30,
+    "title": "Part# 80234-B",
+    "description": "Feed Bar.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875035/IMG_2267_takdps.heic",
     "images": [
@@ -330,9 +300,9 @@
     ]
   },
   {
-    "id": 34,
-    "title": "Product 34",
-    "description": "This is the description of Product 34.",
+    "id": 31,
+    "title": "Part# 29442-M",
+    "description": "Looper Driver Assembly.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875034/IMG_2265_xhv7gn.heic",
     "images": [
@@ -340,9 +310,9 @@
     ]
   },
   {
-    "id": 35,
-    "title": "Product 35",
-    "description": "This is the description of Product 35.",
+    "id": 32,
+    "title": "Part# 81220-A",
+    "description": "Pressure Foot Assembly.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875027/IMG_2258_kksn8x.heic",
     "images": [
@@ -350,9 +320,9 @@
     ]
   },
   {
-    "id": 36,
-    "title": "Product 36",
-    "description": "This is the description of Product 36.",
+    "id": 33,
+    "title": "Part# 81208",
+    "description": "Looper.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875010/IMG_2235_wu1ebi.heic",
     "images": [
@@ -360,9 +330,9 @@
     ]
   },
   {
-    "id": 37,
-    "title": "Product 37",
-    "description": "This is the description of Product 37.",
+    "id": 34,
+    "title": "Part# 81203-C",
+    "description": "Edge Guide Tongue.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875018/IMG_2248_xkayxv.heic",
     "images": [
@@ -370,9 +340,9 @@
     ]
   },
   {
-    "id": 38,
-    "title": "Product 38",
-    "description": "This is the description of Product 38.",
+    "id": 35,
+    "title": "Part# 81205",
+    "description": "Feed Dog.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875016/IMG_2241_zqpaxv.heic",
     "images": [
@@ -380,9 +350,9 @@
     ]
   },
   {
-    "id": 39,
-    "title": "Product 39",
-    "description": "This is the description of Product 39.",
+    "id": 36,
+    "title": "Part# 81250-G",
+    "description": "Looper Thread Pension Assembly.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875016/IMG_2238_wq6kk6.heic",
     "images": [
@@ -390,29 +360,9 @@
     ]
   },
   {
-    "id": 40,
-    "title": "Product 40",
-    "description": "This is the description of Product 40.",
-    "category": "81200",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875012/IMG_2234_vmejvy.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875012/IMG_2234_vmejvy.heic"
-    ]
-  },
-  {
-    "id": 41,
-    "title": "Product 41",
-    "description": "This is the description of Product 41.",
-    "category": "81200",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875025/IMG_2254_epks1z.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875025/IMG_2254_epks1z.heic"
-    ]
-  },
-  {
-    "id": 42,
-    "title": "Product 42",
-    "description": "This is the description of Product 42.",
+    "id": 37,
+    "title": "Part# 81251-A",
+    "description": "Spreader Rocker Shaft.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875005/IMG_2160_uiwsz7.heic",
     "images": [
@@ -420,9 +370,9 @@
     ]
   },
   {
-    "id": 43,
-    "title": "Product 43",
-    "description": "This is the description of Product 43.",
+    "id": 38,
+    "title": "Part# 81203",
+    "description": "Cloth Plate Edge Guide.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875004/IMG_2158_yvb61p.heic",
     "images": [
@@ -430,9 +380,9 @@
     ]
   },
   {
-    "id": 44,
-    "title": "Product 44",
-    "description": "This is the description of Product 44.",
+    "id": 39,
+    "title": "Part# 81213",
+    "description": "Looper Rocker.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874997/IMG_2155_c8bjny.heic",
     "images": [
@@ -440,9 +390,9 @@
     ]
   },
   {
-    "id": 45,
-    "title": "Product 45",
-    "description": "This is the description of Product 45.",
+    "id": 40,
+    "title": "Part# 81207",
+    "description": "Spreader.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874999/IMG_2154_rugwjy.heic",
     "images": [
@@ -450,9 +400,9 @@
     ]
   },
   {
-    "id": 46,
-    "title": "Product 46",
-    "description": "This is the description of Product 46.",
+    "id": 41,
+    "title": "Part# 81207",
+    "description": "Spreader.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874999/IMG_2153_urds9z.heic",
     "images": [
@@ -460,9 +410,9 @@
     ]
   },
   {
-    "id": 47,
-    "title": "Product 47",
-    "description": "This is the description of Product 47.",
+    "id": 42,
+    "title": "Part# 81260",
+    "description": "Looper Rocker Cone Stud.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875002/IMG_2150_fvhedc.heic",
     "images": [
@@ -470,9 +420,9 @@
     ]
   },
   {
-    "id": 48,
-    "title": "Product 48",
-    "description": "This is the description of Product 48.",
+    "id": 43,
+    "title": "Part# 81213-A",
+    "description": "Spreader Rocker.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875000/IMG_2149_w99sdv.heic",
     "images": [
@@ -480,9 +430,9 @@
     ]
   },
   {
-    "id": 49,
-    "title": "Product 49",
-    "description": "This is the description of Product 49.",
+    "id": 44,
+    "title": "Part# 81290-A",
+    "description": "Oil Reservoir.",
     "category": "81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874999/IMG_2141_nigjbp.heic",
     "images": [
@@ -490,9 +440,9 @@
     ]
   },
   {
-    "id": 50,
-    "title": "Product 50",
-    "description": "This is the description of Product 50.",
+    "id": 45,
+    "title": "Part# 80696",
+    "description": "Stich Regulating Stud.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875046/IMG_2284_hapjjr.heic",
     "images": [
@@ -500,9 +450,9 @@
     ]
   },
   {
-    "id": 51,
-    "title": "Product 51",
-    "description": "This is the description of Product 51.",
+    "id": 46,
+    "title": "Part# 80617",
+    "description": "Needle Bar.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875046/IMG_2282_o9pwzu.heic",
     "images": [
@@ -510,19 +460,39 @@
     ]
   },
   {
-    "id": 52,
-    "title": "Product 52",
-    "description": "This is the description of Product 52.",
-    "category": "80200,80800,81200",
+    "id": 47,
+    "title": "Part# 80222",
+    "description": "Main Crank Shaft.",
+    "category": "80200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic",
     "images": [
       "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic"
     ]
   },
   {
-    "id": 53,
-    "title": "Product 53",
-    "description": "This is the description of Product 53.",
+    "id": 48,
+    "title": "Part# 80622",
+    "description": "Main Crank Shaft.",
+    "category": "80800",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic",
+    "images": [
+      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Part# 81222",
+    "description": "Main Crank Shaft.",
+    "category": "81200",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic",
+    "images": [
+      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875045/IMG_2281_vlyarn.heic"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Part# 80694",
+    "description": "Main Shaft Bush.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875042/IMG_2278_mtzome.heic",
     "images": [
@@ -530,9 +500,9 @@
     ]
   },
   {
-    "id": 54,
-    "title": "Product 54",
-    "description": "This is the description of Product 54.",
+    "id": 51,
+    "title": "Part# 80615",
+    "description": "Needle Lever.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875044/IMG_2276_wwg4hh.heic",
     "images": [
@@ -540,9 +510,9 @@
     ]
   },
   {
-    "id": 55,
-    "title": "Product 55",
-    "description": "This is the description of Product 55.",
+    "id": 52,
+    "title": "Part# 80651",
+    "description": "Feed Drive Eccentric Bearing.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875040/IMG_2273_zz1ago.heic",
     "images": [
@@ -550,9 +520,9 @@
     ]
   },
   {
-    "id": 56,
-    "title": "Product 56",
-    "description": "This is the description of Product 56.",
+    "id": 53,
+    "title": "Part# 80236",
+    "description": "Looper Drive Eccentric Bearing.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875031/IMG_2264_nvbrg8.heic",
     "images": [
@@ -560,9 +530,9 @@
     ]
   },
   {
-    "id": 57,
-    "title": "Product 57",
-    "description": "This is the description of Product 57.",
+    "id": 54,
+    "title": "Part# 80664",
+    "description": "Pressure Spring Lower.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875030/IMG_2262_cbumhg.heic",
     "images": [
@@ -570,9 +540,9 @@
     ]
   },
   {
-    "id": 58,
-    "title": "Product 58",
-    "description": "This is the description of Product 58.",
+    "id": 55,
+    "title": "Part# 80663",
+    "description": "Pressure Spring Upper.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875032/IMG_2260_sr4bhk.heic",
     "images": [
@@ -580,9 +550,9 @@
     ]
   },
   {
-    "id": 59,
-    "title": "Product 59",
-    "description": "This is the description of Product 59.",
+    "id": 56,
+    "title": "Part# 80246",
+    "description": "Needle Lever Shaft Bush.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875025/IMG_2257_jio7pe.heic",
     "images": [
@@ -590,9 +560,9 @@
     ]
   },
   {
-    "id": 60,
-    "title": "Product 60",
-    "description": "This is the description of Product 60.",
+    "id": 57,
+    "title": "Part# 80630",
+    "description": "Needle Lever Connecting Rod Tube.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875024/IMG_2255_fa50ro.heic",
     "images": [
@@ -600,9 +570,9 @@
     ]
   },
   {
-    "id": 61,
-    "title": "Product 61",
-    "description": "This is the description of Product 61.",
+    "id": 58,
+    "title": "Part# 80676-A",
+    "description": "Pension Disk.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875020/IMG_2246_othz3x.heic",
     "images": [
@@ -610,9 +580,9 @@
     ]
   },
   {
-    "id": 62,
-    "title": "Product 62",
-    "description": "This is the description of Product 62.",
+    "id": 59,
+    "title": "Part# 10349",
+    "description": "Ball Stud.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875016/IMG_2244_s2wkc2.heic",
     "images": [
@@ -620,9 +590,9 @@
     ]
   },
   {
-    "id": 63,
-    "title": "Product 63",
-    "description": "This is the description of Product 63.",
+    "id": 60,
+    "title": "Part# 80645",
+    "description": "Looper Drive Connection Ball Stud.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875015/IMG_2243_tirbl3.heic",
     "images": [
@@ -630,9 +600,9 @@
     ]
   },
   {
-    "id": 64,
-    "title": "Product 64",
-    "description": "This is the description of Product 64.",
+    "id": 61,
+    "title": "Part# 80656",
+    "description": "Needle Lever Ball.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875015/IMG_2242_aorgid.heic",
     "images": [
@@ -640,9 +610,9 @@
     ]
   },
   {
-    "id": 65,
-    "title": "Product 65",
-    "description": "This is the description of Product 65.",
+    "id": 62,
+    "title": "Part# 80657-A",
+    "description": "Looper Rocker Connecting Rod Ball Joint.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875013/IMG_2240_njiamu.heic",
     "images": [
@@ -650,9 +620,9 @@
     ]
   },
   {
-    "id": 66,
-    "title": "Product 66",
-    "description": "This is the description of Product 66.",
+    "id": 63,
+    "title": "Part# 80642",
+    "description": "Looper Drive Eccentric.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875010/IMG_2166_ax0zx5.heic",
     "images": [
@@ -660,9 +630,9 @@
     ]
   },
   {
-    "id": 67,
-    "title": "Product 67",
-    "description": "This is the description of Product 67.",
+    "id": 64,
+    "title": "Part# HA 54 A",
+    "description": "Needle Bar Link.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875006/IMG_2162_qfspaa.heic",
     "images": [
@@ -670,9 +640,9 @@
     ]
   },
   {
-    "id": 68,
-    "title": "Product 68",
-    "description": "This is the description of Product 68.",
+    "id": 65,
+    "title": "Part# 81240",
+    "description": "Spreader Driving Lever Shaft.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875003/IMG_2156_hup3fr.heic",
     "images": [
@@ -680,9 +650,9 @@
     ]
   },
   {
-    "id": 69,
-    "title": "Product 69",
-    "description": "This is the description of Product 69.",
+    "id": 66,
+    "title": "Part# 80273-A",
+    "description": "Needle Bar Bush.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874999/IMG_2152_iweybh.heic",
     "images": [
@@ -690,19 +660,9 @@
     ]
   },
   {
-    "id": 70,
-    "title": "Product 70",
-    "description": "This is the description of Product 70.",
-    "category": "80200,80800,81200",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874994/IMG_2151_artist.heic",
-    "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874994/IMG_2151_artist.heic"
-    ]
-  },
-  {
-    "id": 71,
-    "title": "Product 71",
-    "description": "This is the description of Product 71.",
+    "id": 67,
+    "title": "Part# 80652",
+    "description": "Needle Lever Connection Bearing-Lower.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874993/IMG_2135_umibkf.heic",
     "images": [
@@ -710,17 +670,9 @@
     ]
   },
   {
-    "id": 72,
-    "title": "Product 72",
-    "description": "This is the description of Product 72.",
-    "category": "80200,80800,81200",
-    "image": "image url",
-    "images": ["image url"]
-  },
-  {
-    "id": 73,
-    "title": "Product 73",
-    "description": "This is the description of Product 73.",
+    "id": 68,
+    "title": "Part# 80638-A",
+    "description": "Looper Drive Lever Shaft Rocker.",
     "category": "80200,80800,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875002/IMG_2147_ylidcc.heic",
     "images": [
@@ -728,7 +680,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 69,
     "title": "80200 Category Image",
     "description": "Category face image for Union Special 80200 products",
     "category": "80200-category",
@@ -738,7 +690,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 70,
     "title": "80800 Category Image",
     "description": "Category face image for Union Special 80800 products",
     "category": "80800-category",
@@ -748,7 +700,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 71,
     "title": "81200 Category Image",
     "description": "Category face image for Union Special 81200 products",
     "category": "81200-category",

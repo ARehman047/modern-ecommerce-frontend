@@ -115,12 +115,9 @@ export const ProductDetails = ({ id }) => {
 
                 {/* Description */}
                 <div className="mb-8">
-                  <h3 className="text-lg font-medium text-gray-900 mb-4">
-                    Description
-                  </h3>
-                  <p className="text-base text-gray-700 leading-relaxed">
+                  <h3 className="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl mb-4">
                     {description}
-                  </p>
+                  </h3>
                 </div>
 
                 {/* Contact button */}
