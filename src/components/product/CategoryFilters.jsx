@@ -38,7 +38,7 @@ function classNames(...classes) {
 }
 
 export const CategoryFilters = () => {
-  const [searchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const [category, setCategory] = useState([]);
   const [sortingOrder, setSortingOrder] = useState("");
@@ -53,8 +53,14 @@ export const CategoryFilters = () => {
 
     // Check for category parameter in URL
     const categoryParam = searchParams.get("category");
-    if (categoryParam && ["80200", "80800", "81200"].includes(categoryParam)) {
-      setCategory([categoryParam]);
+    if (categoryParam) {
+      // Handle multiple categories separated by commas
+      const categories = categoryParam
+        .split(",")
+        .filter((cat) => ["80200", "80800", "81200"].includes(cat.trim()));
+      setCategory(categories);
+    } else {
+      setCategory([]);
     }
   }, [searchParams]);
 
@@ -104,15 +110,25 @@ export const CategoryFilters = () => {
 
   // Define your handleCategory function
   const handleCategory = (categoryValue, isChecked) => {
+    let newCategories;
     if (isChecked) {
       // If checkbox is checked, add the category to the array
-      setCategory((prevCategories) => [...prevCategories, categoryValue]);
+      newCategories = [...category, categoryValue];
     } else {
       // If checkbox is unchecked, remove the category from the array
-      setCategory((prevCategories) =>
-        prevCategories.filter((cat) => cat !== categoryValue)
-      );
+      newCategories = category.filter((cat) => cat !== categoryValue);
     }
+
+    setCategory(newCategories);
+
+    // Update URL parameters
+    const newSearchParams = new URLSearchParams(searchParams);
+    if (newCategories.length > 0) {
+      newSearchParams.set("category", newCategories.join(","));
+    } else {
+      newSearchParams.delete("category");
+    }
+    setSearchParams(newSearchParams);
   };
   return (
     <>
@@ -417,7 +433,14 @@ export const CategoryFilters = () => {
                           <input
                             type="checkbox"
                             checked={category.length === 0}
-                            onChange={() => setCategory([])}
+                            onChange={() => {
+                              setCategory([]);
+                              const newSearchParams = new URLSearchParams(
+                                searchParams
+                              );
+                              newSearchParams.delete("category");
+                              setSearchParams(newSearchParams);
+                            }}
                             className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500 mr-2"
                           />
                           <span className="text-sm text-gray-700">

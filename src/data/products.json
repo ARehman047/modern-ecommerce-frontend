@@ -74,9 +74,9 @@
     "title": "Part# 80650",
     "description": "Needle Lever Connection Bearing-Upper.",
     "category": "80200",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874995/IMG_2140_a5l5l8.heic",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483243/WhatsApp_Image_2025-07-14_at_11.21.07_68b7650d_m1fe0f.jpg",
     "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751874995/IMG_2140_a5l5l8.heic"
+      "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483243/WhatsApp_Image_2025-07-14_at_11.21.07_68b7650d_m1fe0f.jpg"
     ]
   },
   {
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "title": "Part# 80620-E",
-    "description": "PRessure Foot Shank.",
+    "description": "Pressure Foot Shank.",
     "category": "80200,81200",
     "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875021/IMG_2253_x236t3.heic",
     "images": [
@@ -294,9 +294,9 @@
     "title": "Part# 80234-B",
     "description": "Feed Bar.",
     "category": "81200",
-    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875035/IMG_2267_takdps.heic",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483242/WhatsApp_Image_2025-07-14_at_11.21.08_e3b91ced_knxsfg.jpg",
     "images": [
-      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875035/IMG_2267_takdps.heic"
+      "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483242/WhatsApp_Image_2025-07-14_at_11.21.08_e3b91ced_knxsfg.jpg"
     ]
   },
   {
@@ -681,6 +681,26 @@
   },
   {
     "id": 69,
+    "title": "Part# 897-B",
+    "description": "Fabric Edge Guide.",
+    "category": "80800",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875023/IMG_2247_wqjzri.heic",
+    "images": [
+      "https://res.cloudinary.com/depiy3lbl/image/upload/f_jpg/v1751875023/IMG_2247_wqjzri.heic"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Part# HA 43 X",
+    "description": "Feed Lift Eccentric.",
+    "category": "80200,80800,81200",
+    "image": "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483242/WhatsApp_Image_2025-07-14_at_13.52.30_4ccade09_jew1fb.jpg",
+    "images": [
+      "https://res.cloudinary.com/depiy3lbl/image/upload/v1752483242/WhatsApp_Image_2025-07-14_at_13.52.30_4ccade09_jew1fb.jpg"
+    ]
+  },
+  {
+    "id": 71,
     "title": "80200 Category Image",
     "description": "Category face image for Union Special 80200 products",
     "category": "80200-category",
@@ -690,7 +710,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 72,
     "title": "80800 Category Image",
     "description": "Category face image for Union Special 80800 products",
     "category": "80800-category",
@@ -700,7 +720,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 73,
     "title": "81200 Category Image",
     "description": "Category face image for Union Special 81200 products",
     "category": "81200-category",
