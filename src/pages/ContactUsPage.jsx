@@ -164,7 +164,8 @@ Sent via Fine Sew Website Contact Form`;
         phone: contactForm.phone || "Not provided",
         subject: contactForm.subject,
         message: contactForm.message,
-        to_email: "info@finesew.com",
+        to_email: "finesew12@gmail.com",
+        reply_to: "info@finesew.com", // reply to professional email
       };
 
       // Send email using EmailJS
