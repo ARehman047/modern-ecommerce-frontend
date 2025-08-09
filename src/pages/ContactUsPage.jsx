@@ -165,7 +165,6 @@ Sent via Fine Sew Website Contact Form`;
         subject: contactForm.subject,
         message: contactForm.message,
         to_email: "finesew12@gmail.com",
-        reply_to: "info@finesew.com", // reply to professional email
       };
 
       // Send email using EmailJS
@@ -238,10 +237,7 @@ Sent via Fine Sew Website Contact Form`;
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a
-                  href="mailto:info@finesew.com"
-                  className="text-indigo-500 leading-relaxed"
-                >
+                <a href="#" className="text-indigo-500 leading-relaxed">
                   info@finesew.com
                 </a>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
